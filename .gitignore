@@ -7,6 +7,7 @@ __pycache__/
 mytestenv/
 mytestenv/Lib
 mytestenv/Lib/Site-packages
+./mytestenv
 
 # Ignore environment variable files
 .env
